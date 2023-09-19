@@ -8,4 +8,4 @@
 
 The result are presented in the form of confusion matrices. The following figure is an example.
 
-![image-20230919174316870](C:\Users\qhd\AppData\Roaming\Typora\typora-user-images\image-20230919174316870.png){width="60%"}
+<img src="KNN.png" width="60%">
